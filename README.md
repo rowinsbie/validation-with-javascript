@@ -1,2 +1,6 @@
-# validation-with-javascript
-this validation object will optimized your work for validating forms and file upload,
+# Features
+
+-Validate input fields
+-Ready made login validation object
+-File upload validation
+-Email validation
