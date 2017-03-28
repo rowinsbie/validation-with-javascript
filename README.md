@@ -1,6 +1,8 @@
 # Features
 
--Validate input fields<br>
--Ready made login validation object<br>
--File upload validation<br>
--Email validation<br>
+<ul>
+<li>Validate input fields</li>
+<li>Ready made login validation object</li>
+<li>File upload validation</li>
+<li>Email validation</li>
+</ul>
